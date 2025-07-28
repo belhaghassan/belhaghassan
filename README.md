@@ -28,16 +28,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belhaghassan&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-### 🌟 Featured Project
-[![FastMCP](https://github-readme-stats.vercel.app/api/pin/?username=belhaghassan&repo=fastmcp&theme=tokyonight)](https://github.com/belhaghassan/fastmcp)
-
 ---
 
 <div align="center">
 
 ### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalelhaghassan)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal@sonarx.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalelhaghassan@gmail.com)
 
 *"Building the infrastructure that powers Web3"*
 
